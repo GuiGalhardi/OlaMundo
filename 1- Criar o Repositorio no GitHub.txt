@@ -1,0 +1,18 @@
+1- Criar o Repositorio no GitHub
+
+2- Copiar link do Repositorio e Concatenar com git clone
+Sera criada um pasta com o nome do Repositorio
+
+
+3- Adicionar os arquivos dentro dessa pasta
+
+4- Verificar se os arquivos foram adicionados com o comando "git status"
+
+5- Se os arquivos estão la, vão estar na cor vermelha
+
+6- Adicionar os arquivos em vermelho com o comando "git add .", após isso, usar comando do status denovo
+Os arquivos devem aparecer em verde 
+
+7- Cria commit COMANDO:  git commit -m "DESCRIÇÃO"
+
+8- Após o commit vamos dar um push COMANDO : "git push"
